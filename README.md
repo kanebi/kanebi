@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kanebi
-- 👀 I’m interested in full stack web and app development
-- 🌱 I’m currently learning React and django rest framework
-- 💞️ I’m looking to collaborate on any of project that can help me improve
+- 👋 I’m @kanebi
+- 👀 I’m in full stack web and app development & a cloud Eng.
+- 🌱 I’m currently actively building applications with suitable languages especially
 - 📫 How to reach me : ikaneboy@gmail.com
 
 <!---
