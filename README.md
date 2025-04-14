@@ -1,6 +1,6 @@
 - 👋 I’m @kanebi
 - 👀 I’m in full stack web and app development & a cloud Eng.
-- 🌱 I’m currently actively building applications with suitable languages especially
+- 🌱 I’m actively building applications with suitable languages 
 - 📫 How to reach me : ikaneboy@gmail.com
 
 <!---
